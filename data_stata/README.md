@@ -1,8 +1,11 @@
 ### Files
 
 stata.do : Manal's original do file
+
 stata_2.do: My changes
+
 stata_data.csv: New dataset
+
 farc_muni.csv: Municipalities where FARC is present, as generated in stata.do
 
 ### Changes to dataset
