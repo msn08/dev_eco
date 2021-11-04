@@ -7,10 +7,6 @@ farc_muni.csv: Municipalities where FARC is present, as generated in stata.do
 
 ### Changes to dataset
 
-#### FARC Municipalities
-Using Manal's do file, I added "FARC" column to indicate if municipality if FARC or not. The list of municipalies can be found in *farc_muni.csv* and it's the list that can be found in
-Manal's do file, just under "// DEFINE IF MUN ARE FARC RELATED"
-
 #### post15
 I simply implemented what Manal did
 
